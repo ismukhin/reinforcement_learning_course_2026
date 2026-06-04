@@ -7,4 +7,4 @@
 5. `week06_policy_based` - содержит заполненный ноутбук `reinforce_pytorch.ipynb`
 6. `week07_seq2seq` - содержит заполненный ноутбук `practice_torch.ipynb`
 
-Также в файле `questions.md` изложены ответы на вопросы.
+Также в файле `questions.md` (либо `questions.pdf`, если верстка поплывет) изложены ответы на вопросы.
